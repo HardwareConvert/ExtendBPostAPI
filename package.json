@@ -1,0 +1,16 @@
+{
+  "name": "blogapi",
+  "version": "1.0.0",
+  "description": "blogpost api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Brittany Micek",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,28 @@
+### API calls for BlogAPI
+
+### GET all blog posts
+
+GET http://localhost:3000/ HTTP/1.1
+
+###
+
+GET http://localhost:3000/api/blogposts/ HTTP/1.1
+
+### 
+GET http://localhost:3000/api/blogposts/87 HTTP/1.1
+
+### GET all users
+
+GET http://localhost:3000/api/user HTTP/1.1
+
+### GET all users by ID
+
+GET http://localhost:3000/api/user/1 HTTP/1.1
+
+### GET all todos
+
+GET http://localhost:3000/api/todo HTTP/1.1
+
+### GET todos by ID
+GET http://localhost:3000/api/todo/6 HTTP/1.1
+
